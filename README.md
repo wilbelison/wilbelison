@@ -38,6 +38,10 @@ Para ver uma prévia do meu novo site, acesse:
 * **2024**: [iDega](https://github.com/wilbelison/idega) (Desafio do Curso de React.js)
 * **2024**: [Gameflix](https://github.com/wilbelison/gameflix) (Desafio do Curso de Javascript)
 * **2024**: [Rick and Morty Compendium](https://github.com/wilbelison/rickandmortycompendium) (Desafio do Curso de Desenvolvimento Web)
+* 
+## Playground
+
+* **2024**: [Wil.Work Cursors](https://wilbelison.github.io/wilwork-cursors/) (Cursores customizados para meu sites)
 
 ## Animações
 
