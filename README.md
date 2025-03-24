@@ -1,4 +1,7 @@
 # 🚀 Minha Máquina do Tempo
+
+**[Linkedin](https://wil.work](https://www.linkedin.com/in/wilbelison/)**
+
 ## ⏳ Um Portfólio Provisório
 
 Enquanto meu novo site **[Wil.Work](https://wil.work)** não está finalizado, você pode conferir alguns de meus trabalhos que desenvolvi nestes mais de 20 anos de profissão como **Webdesigner**, **Desenvolvedor Front-end** e **UX Designer**, clicando nos links abaixo.
