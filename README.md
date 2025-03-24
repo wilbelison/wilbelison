@@ -1,6 +1,6 @@
 # 🚀 Minha Máquina do Tempo
 
-**[Linkedin](https://wil.work](https://www.linkedin.com/in/wilbelison/)**
+**[Linkedin](https://www.linkedin.com/in/wilbelison/)**
 
 ## ⏳ Um Portfólio Provisório
 
