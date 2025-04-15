@@ -1,4 +1,8 @@
-**[Linkedin](https://www.linkedin.com/in/wilbelison/)**
+Sou formado em Design Gráfico, com **mais de 20 anos de experiência profissional** em Web Design e UX/UI. Atualmente, estou aprofundando meus estudos em Programação Full Stack (Front-end e Back-end), Analytics e Data Science. Com essa bagagem, sou capaz de desenvolver produtos digitais eficientes e escaláveis, acompanhando todo o ciclo de vida — desde o conceito até a implementação de melhorias focadas tanto na experiência do usuário quanto no crescimento do negócio.
+
+**[📜 Linkedin](https://www.linkedin.com/in/wilbelison/)**
+**[📬 Email](mailto:oi@wil.work)** 
+**[☎️ WhatsApp](https://api.whatsapp.com/send/?phone=5511986953010&text=Oi,%20Wil!)**
 
 # Maquina do Tempo
 
