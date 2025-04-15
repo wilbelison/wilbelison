@@ -12,6 +12,7 @@ Para ver uma prévia do meu novo site, acesse:
 
 ## 🛬 Landing Pages
 
+* **2025**: 🩺 [PUCRS](https://www.figma.com/proto/nCqjVgHqsFDEFyijlZtTE1/-PUCRS--VITRINE-02-23?page-id=1%3A69&node-id=2900-21671&viewport=-5456%2C2426%2C0.54&t=ZeDN7AF5XQAIOsuY-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2900%3A21671&hide-ui=1) (Layout)
 * **2023**: 🏪 [Casas Bahia](https://www.figma.com/proto/nB8r1z3aCJWfS8aeNUjQq5/Web---Landing-Page---P%C2%A0gina-de-Atra%E2%80%A1%C3%86o---Marketplace?page-id=2090%3A2973&node-id=2090-2974&viewport=600%2C1422%2C0.52&t=IHXq7AwmwjmEJOeI-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2090%3A2974&hotspot-hints=0&disable-default-keyboard-nav=1&hide-ui=1) & [Ponto](https://www.figma.com/proto/nB8r1z3aCJWfS8aeNUjQq5/Web---Landing-Page---P%C2%A0gina-de-Atra%E2%80%A1%C3%86o---Marketplace?page-id=2368%3A3419&node-id=2368-3420&viewport=742%2C1645%2C0.61&t=IIRGMBkVDMx69LpB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2368%3A3420&hide-ui=1) (Layout)
 * **2011**: 🎭 [Camarote Saraiva](./assets/2011-camarote-saraiva.jpg) (Layout e Front-end)
 
