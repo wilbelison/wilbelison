@@ -1,12 +1,44 @@
-Sou formado em Design Gráfico, com **mais de 20 anos de experiência profissional** em Web Design e UX/UI. Atualmente, estou aprofundando meus estudos em Programação Full Stack (Front-end e Back-end), Analytics e Data Science. Com essa bagagem, sou capaz de desenvolver produtos digitais eficientes e escaláveis, acompanhando todo o ciclo de vida — desde o conceito até a implementação de melhorias focadas tanto na experiência do usuário quanto no crescimento do negócio.
+# Wilbelison Junior | Front-end Developer & UX Designer Specialist
 
-**[📜 Linkedin](https://www.linkedin.com/in/wilbelison/)**
+Sou formado em Design Gráfico, com **mais de 20 anos de experiência profissional** em Web Design e UX/UI. Atualmente, estou aprofundando meus estudos em Programação Full Stack (Front-end e Back-end). Com essa bagagem, sou capaz de desenvolver produtos digitais eficientes e escaláveis, acompanhando todo o ciclo de vida — desde o conceito até a implementação de melhorias focadas tanto na experiência do usuário quanto no crescimento do negócio.
+
+## Contato e Links
+
+**[📜 LinkedIn](https://www.linkedin.com/in/wilbelison/)**
+**[💻 GitHub](https://github.com/wilbelison)**
+**[📄 Currículo PDF](./assets/wilbelison-cv-2015.pdf)**
 **[📬 Email](mailto:oi@wil.work)** 
 **[☎️ WhatsApp](https://api.whatsapp.com/send/?phone=5511986953010&text=Oi,%20Wil!)**
 
-# Maquina do Tempo
+## Experiência Profissional
 
-Enquanto meu novo site **[Wil.Work](https://wil.work)** não está finalizado, você pode conferir alguns de meus trabalhos que desenvolvi nestes mais de 20 anos de profissão como **Webdesigner**, **Desenvolvedor Front-end** e **UX Designer**, clicando nos links abaixo.
+Ao longo da minha carreira, tive a oportunidade de trabalhar com grandes empresas, contribuindo para o sucesso de seus produtos digitais:
+
+- **UOL EdTech**: Liderei o design da Vitrine EAD do Sírio-Libanês, otimizando jornadas de inscrição e aumentando conversão de leads.
+- **Grupo Casas Bahia**: Redesenhei experiências para vendedores do marketplace, melhorando processos pós-venda.
+- **Olist**: Otimizei experiências desde Buyer Experience até logística, realizando pesquisas imersivas.
+- **Carrefour**: Liderei o redesign completo do site e criei o Portal do Seller com decisões baseadas em dados.
+- **Walmart**: Participei do redesign completo do site de e-commerce, criando wireframes e protótipos interativos.
+- **Livraria Saraiva**: Liderei o redesign do site e criei interfaces centradas no usuário para e-commerce.
+
+## Habilidades Técnicas
+
+- **Design**: UX/UI, Prototipação, Testes de Usabilidade, Design Systems
+- **Desenvolvimento**: HTML5, CSS3, JavaScript, React.js, Node.js, WordPress
+- **Ferramentas**: Figma, Adobe Creative Suite, Sketch, Hotjar, Google Analytics
+- **Metodologias**: Design Thinking, Agile, Lean UX, Design Sprint
+
+## Formação e Certificações
+
+- **Carreira de Desenvolvedor Full Stack** (Coderhouse, 2023-2025)
+- **Pós-graduação em Design de Produtos Digitais** (Anhanguera, 2021-2022)
+- **Formação em UX Design** (Mergo, 2018)
+- **Bacharel em Design Gráfico** (Universidade Cidade de São Paulo, 2018-2020)
+- **Certificações**: React JS, Desenvolvimento Web, Designing for Accessibility
+
+# Portfólio
+
+Meu novo site **[Wil.Work](https://wil.work)** não está finalizado, mas você pode conferir alguns de meus trabalhos que desenvolvi nestes mais de 20 anos de profissão como **Webdesigner**, **Desenvolvedor Front-end** e **UX Designer**, clicando nos links abaixo.
 
 Para ver uma prévia do meu novo site, acesse:
 * [Versão Desktop](https://www.figma.com/proto/sMsa3b2iysEbcoGJ1Wystg/wil.work?page-id=0%3A1&node-id=3017-7788&viewport=194%2C525%2C0.24&t=9T7Te1rUBd3TX7o2-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3017%3A7788&show-proto-sidebar=1&hide-ui=1)
@@ -45,7 +77,7 @@ Para ver uma prévia do meu novo site, acesse:
 * **2024**: [Gameflix](https://github.com/wilbelison/gameflix) (Desafio do Curso de Javascript)
 * **2024**: [Rick and Morty Compendium](https://github.com/wilbelison/rickandmortycompendium) (Desafio do Curso de Desenvolvimento Web)
 
-## Playground
+## Code playground
 
 * **2024**: [Cursors](https://wilbelison.github.io/wilwork-cursors/) (Cursores customizados)
 
