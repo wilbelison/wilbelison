@@ -6,7 +6,7 @@ Sou formado em Design Gráfico, com **mais de 20 anos de experiência profission
 
 **[📜 LinkedIn](https://www.linkedin.com/in/wilbelison/)**
 **[💻 GitHub](https://github.com/wilbelison)**
-**[📄 Currículo PDF](https://wilbelison.github.io/wilbelison/assets/wilbelison-cv-2015.pdf)**
+**[📄 Currículo PDF](https://wilbelison.github.io/wilbelison/assets/wilbelison-cv-2025.pdf)**
 **[📬 Email](mailto:oi@wil.work)** 
 **[☎️ WhatsApp](https://api.whatsapp.com/send/?phone=5511986953010&text=Oi,%20Wil!)**
 
