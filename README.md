@@ -27,8 +27,8 @@ Para ver uma prévia do meu protótipo, acesse:
 
 * **2025**: [Sírio-Libanês](https://wilbelison.github.io/wilbelison/assets/2025-vitrine-sirio-libanes.jpg) (Design)
 * **2025**: [PUCRS](https://wilbelison.github.io/wilbelison/assets/2025-melhoria-pdp-pucrs.jpg) (Design)
-* **2023**: [Ponto "Frio"](https://wilbelison.github.io/wilbelison/assets/) (Design)
-* **2023**: [Casas Bahia](https://wilbelison.github.io/wilbelison/assets/) (Design)
+* **2023**: [Ponto "Frio"](https://wilbelison.github.io/wilbelison/assets/2023-lp-ponto.jpg) (Design)
+* **2023**: [Casas Bahia](https://wilbelison.github.io/wilbelison/assets/2023-lp-casas-bahia.jpg) (Design)
 * **2011**: [Camarote Saraiva](https://wilbelison.github.io/wilbelison/assets/2011-camarote-saraiva.jpg) (Design e Front-end)
 
 ## Cases
