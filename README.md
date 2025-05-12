@@ -10,8 +10,6 @@ Oi! Sou o Wil, um Full Stack Designer com mais de 20 anos de experiência combin
 **[oi@wil.work](mailto:oi@wil.work)** 
 **[+55 (11) 98695-3010](https://api.whatsapp.com/send/?phone=5511986953010&text=Oi,%20Wil!)**
 
-
-
 ## Habilidades Técnicas
 
 - **Design**: UX/UI, Prototipação, Testes de Usabilidade, Design Systems
@@ -19,16 +17,18 @@ Oi! Sou o Wil, um Full Stack Designer com mais de 20 anos de experiência combin
 
 # Portfólio
 
-Meu novo site **[Wil.Work](https://wil.work)** não está finalizado, mas você pode conferir alguns de meus trabalhos que desenvolvi nestes mais de 20 anos de profissão como **Webdesigner**, **Desenvolvedor Front-end** e **UX Designer**, clicando nos links abaixo.
+Meu novo site **[wil.work](https://wil.work)** não está finalizado ainda, mas você pode conferir alguns de meus trabalhos que desenvolvi nestes mais de 20 anos de profissão como **Webdesigner**, **Desenvolvedor Front-end** e **UX Designer**, clicando nos links abaixo.
 
-Para ver uma prévia do meu novo site, acesse:
-* [Versão Desktop →](https://www.figma.com/proto/sMsa3b2iysEbcoGJ1Wystg/wil.work?page-id=0%3A1&node-id=3017-7788&viewport=194%2C525%2C0.24&t=9T7Te1rUBd3TX7o2-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3017%3A7788&show-proto-sidebar=1&hide-ui=1)
-* [Versão Mobile →](https://www.figma.com/proto/sMsa3b2iysEbcoGJ1Wystg/wil.work?page-id=0%3A1&node-id=3017-7186&viewport=194%2C525%2C0.24&t=9T7Te1rUBd3TX7o2-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3017%3A7186&show-proto-sidebar=1&hide-ui=1)
+Para ver uma prévia do meu protótipo, acesse:
+* [Versão Desktop →](https://wilbelison.github.io/wilbelison/assets/2025-wil-work-desktop.jpg)
+* [Versão Mobile →](https://wilbelison.github.io/wilbelison/assets/2025-wil-work-mobile.jpg)
 
 ## Landing Pages
 
-* **2025**: [PUCRS](https://www.figma.com/proto/nCqjVgHqsFDEFyijlZtTE1/-PUCRS--VITRINE-02-23?page-id=1%3A69&node-id=2900-21671&viewport=-5456%2C2426%2C0.54&t=ZeDN7AF5XQAIOsuY-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2900%3A21671&hide-ui=1) (Design)
-* **2023**: [Casas Bahia](https://www.figma.com/proto/nB8r1z3aCJWfS8aeNUjQq5/Web---Landing-Page---P%C2%A0gina-de-Atra%E2%80%A1%C3%86o---Marketplace?page-id=2090%3A2973&node-id=2090-2974&viewport=600%2C1422%2C0.52&t=IHXq7AwmwjmEJOeI-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2090%3A2974&hotspot-hints=0&disable-default-keyboard-nav=1&hide-ui=1) & [Ponto](https://www.figma.com/proto/nB8r1z3aCJWfS8aeNUjQq5/Web---Landing-Page---P%C2%A0gina-de-Atra%E2%80%A1%C3%86o---Marketplace?page-id=2368%3A3419&node-id=2368-3420&viewport=742%2C1645%2C0.61&t=IIRGMBkVDMx69LpB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2368%3A3420&hide-ui=1) (Design)
+* **2025**: [Sírio-Libanês](https://wilbelison.github.io/wilbelison/assets/2025-vitrine-sirio-libanes.jpg) (Design)
+* **2025**: [PUCRS](https://wilbelison.github.io/wilbelison/assets/2025-melhoria-pdp-pucrs.jpg) (Design)
+* **2023**: [Ponto "Frio"](https://wilbelison.github.io/wilbelison/assets/) (Design)
+* **2023**: [Casas Bahia](https://wilbelison.github.io/wilbelison/assets/) (Design)
 * **2011**: [Camarote Saraiva](https://wilbelison.github.io/wilbelison/assets/2011-camarote-saraiva.jpg) (Design e Front-end)
 
 ## Cases
@@ -69,11 +69,12 @@ Para ver uma prévia do meu novo site, acesse:
 
 ## Identidades Visuais
 
-* **2018**: [À Deriva](https://wilbelison.github.io/wilbelison/assets/2018-a-deriva.jpeg)
-* **2018**: [Jag](https://wilbelison.github.io/wilbelison/assets/2018-jag.jpeg)
-* **2018**: [Napo](https://wilbelison.github.io/wilbelison/assets/2018-napo.jpeg)
-* **2018**: [Team Croco](https://wilbelison.github.io/wilbelison/assets/2018-team-croco.jpeg)
-* **2018**: [Hypath](https://wilbelison.github.io/wilbelison/assets/2018-hypath.jpeg)
+* **2018**: [À Deriva](https://wilbelison.github.io/wilbelison/assets/2018-a-deriva.jpg)
+* **2017**: [Cacau Brasil](https://wilbelison.github.io/wilbelison/assets/2017-cacau-brasil.jpg)
+* **2018**: [Jag](https://wilbelison.github.io/wilbelison/assets/2018-jag.jpg)
+* **2018**: [Napo](https://wilbelison.github.io/wilbelison/assets/2018-napo.jpg)
+* **2018**: [Team Croco](https://wilbelison.github.io/wilbelison/assets/2018-team-croco.jpg)
+* **2018**: [Hypath](https://wilbelison.github.io/wilbelison/assets/2018-hypath.jpg)
 * **2011**: [Shidoa](https://wilbelison.github.io/wilbelison/assets/2011-shidoa.png)
 * **2011**: [Da Vinci Apps](https://wilbelison.github.io/wilbelison/assets/2011-da-vinci-apps.jpg)
 * **2011**: [Fluent Store](https://wilbelison.github.io/wilbelison/assets/2011-fluent-store.jpg)
