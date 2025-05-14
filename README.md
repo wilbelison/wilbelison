@@ -54,29 +54,31 @@ Para ver uma prévia do meu protótipo, acesse:
 
 ## Desafios
 
-* **2024**: [iDega](https://github.com/wilbelison/idega) (Desafio do Curso de React.js)
+
 * **2024**: [Gameflix](https://github.com/wilbelison/gameflix) (Desafio do Curso de Javascript)
 * **2024**: [Rick and Morty Compendium](https://github.com/wilbelison/rickandmortycompendium) (Desafio do Curso de Desenvolvimento Web)
+* **2024**: [iDega](https://github.com/wilbelison/idega) (Desafio do Curso de React.js)
 
 ## Code playground
 
 * **2024**: [Cursors](https://wilbelison.github.io/wilwork-cursors/) (Cursores customizados)
+
+## Identidades Visuais
+
+* **2018**: [À Deriva](https://wilbelison.github.io/wilbelison/assets/2018-a-deriva.jpg)
+* **2018**: [Jag](https://wilbelison.github.io/wilbelison/assets/2018-jag.jpg)
+* **2018**: [Napo](https://wilbelison.github.io/wilbelison/assets/2018-napo.jpg)
+* **2018**: [Team Croco](https://wilbelison.github.io/wilbelison/assets/2018-team-croco.jpg)
+* **2018**: [Hypath](https://wilbelison.github.io/wilbelison/assets/2018-hypath.jpg)
+* **2017**: [Cacau Brasil](https://wilbelison.github.io/wilbelison/assets/2017-cacau-brasil.jpg)
+* **2011**: [Shidoa](https://wilbelison.github.io/wilbelison/assets/2011-shidoa.png)
+* **2011**: [Da Vinci Apps](https://wilbelison.github.io/wilbelison/assets/2011-da-vinci-apps.jpg)
+* **2011**: [Fluent Store](https://wilbelison.github.io/wilbelison/assets/2011-fluent-store.jpg)
+* **2009**: [Meu Studio](https://wilbelison.github.io/wilbelison/assets/2009-meu-studio.jpg)
+* **2006**: [Regis Bike](https://wilbelison.github.io/wilbelison/assets/2006-regis-bike.png)
 
 ## Animações
 
 * **2009**: [Banner Interativo - Game de Zumbi](https://wilbelison.github.io/wilbelison/assets/2009-banner-game-zumbi.mp4) (Animação Flash e Programação ActionScript)
     *Obs.: Finalmente encontrei uma solução para rodar animações antigas criadas no Flash em sistemas operacionais atuais. O [Ruffle](https://ruffle.rs/) ❤️.*
 
-## Identidades Visuais
-
-* **2018**: [À Deriva](https://wilbelison.github.io/wilbelison/assets/2018-a-deriva.jpg)
-* **2017**: [Cacau Brasil](https://wilbelison.github.io/wilbelison/assets/2017-cacau-brasil.jpg)
-* **2018**: [Jag](https://wilbelison.github.io/wilbelison/assets/2018-jag.jpg)
-* **2018**: [Napo](https://wilbelison.github.io/wilbelison/assets/2018-napo.jpg)
-* **2018**: [Team Croco](https://wilbelison.github.io/wilbelison/assets/2018-team-croco.jpg)
-* **2018**: [Hypath](https://wilbelison.github.io/wilbelison/assets/2018-hypath.jpg)
-* **2011**: [Shidoa](https://wilbelison.github.io/wilbelison/assets/2011-shidoa.png)
-* **2011**: [Da Vinci Apps](https://wilbelison.github.io/wilbelison/assets/2011-da-vinci-apps.jpg)
-* **2011**: [Fluent Store](https://wilbelison.github.io/wilbelison/assets/2011-fluent-store.jpg)
-* **2009**: [Meu Studio](https://wilbelison.github.io/wilbelison/assets/2009-meu-studio.jpg)
-* **2006**: [Regis Bike](https://wilbelison.github.io/wilbelison/assets/2006-regis-bike.png)
