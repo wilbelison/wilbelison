@@ -2,13 +2,18 @@
 
 Oi! Sou o Wil, um Full Stack Designer com mais de 20 anos de experiência combinando UX Design e Desenvolvimento Front-end. Tenho expertise em criar interfaces otimizadas para conversão, desenvolver produtos acessíveis e implementar melhorias baseadas em dados para empresas como Walmart, Carrefour, Zap Imóveis, Casas Bahia e UOL.
 
-**[Currículo →](https://wilbelison.github.io/wilbelison/assets/wilbelison-cv-2025.pdf)**
+**[Currículo →](https://wilbelison.github.io/wilbelison/assets/2025-cv-figma.pdf)**
 
 ## Contato
 
 **[linkedin.com/in/wilbelison](https://www.linkedin.com/in/wilbelison/)**  
 **[oi@wil.work](mailto:oi@wil.work)**  
 **[+55 (11) 98695-3010](https://api.whatsapp.com/send/?phone=5511986953010&text=Oi,%20Wil!)**
+
+Meu novo site está em fase de atualização, para uma prévia, acesse:
+
+- [Versão Desktop →](https://www.figma.com/proto/sMsa3b2iysEbcoGJ1Wystg/wil.work?node-id=3017-7788&t=hm1HPhGiB7GFcXhI-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3017%3A7788&hide-ui=1)
+- [Versão Mobile →](https://www.figma.com/proto/sMsa3b2iysEbcoGJ1Wystg/wil.work?node-id=3017-7186&t=hm1HPhGiB7GFcXhI-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3017%3A7186&hide-ui=1)
 
 ## Habilidades Técnicas
 
@@ -17,14 +22,7 @@ Oi! Sou o Wil, um Full Stack Designer com mais de 20 anos de experiência combin
 
 # Portfólio
 
-Meu novo site **[wil.work](https://wil.work)** está em desenvolvimento, mas você pode conferir alguns dos meus trabalhos ao longo de mais de 20 anos como **Webdesigner**, **Desenvolvedor Front-end** e **UX Designer** nos links abaixo.
-
-Para ver uma prévia do meu protótipo, acesse:
-
-- [Versão Desktop →](https://wilbelison.github.io/wilbelison/assets/2025-wil-work-desktop.jpg)
-- [Versão Mobile →](https://wilbelison.github.io/wilbelison/assets/2025-wil-work-mobile.jpg)
-
-## Cases de Destaque
+## Cases em Destaque
 
 ### Transição Carrefour → Olist: Otimização da Experiência do Vendedor no Marketplace
 
@@ -95,5 +93,5 @@ As melhorias resultaram em aumento significativo na satisfação dos vendedores,
 
 ### Animações
 
-- **2009**: [Banner Interativo - Game de Zumbi](https://wilbelison.github.io/wilbelison/assets/2009-banner-game-zumbi.mp4) (Animação Flash e Programação ActionScript)  
+- **2009**: [Banner Interativo - Game de Zumbi](https://wilbelison.github.io/wilbelison/assets/2009-banner-game-zumbi.mp4) (Animação em Flash e Programação ActionScript)  
   _Obs.: Finalmente encontrei uma solução para rodar animações antigas criadas no Flash em sistemas operacionais atuais. O [Ruffle](https://ruffle.rs/) ❤️._
