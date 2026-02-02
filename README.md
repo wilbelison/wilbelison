@@ -44,7 +44,7 @@ As melhorias resultaram em aumento significativo na satisfação dos vendedores,
 
 ### Landing Pages
 
-- **2025**: [AppTiter](https://apptiter.com/) (Fundador, Design, Framer e Vibe Coding)
+- **2025**: [AppTiter](https://apptiter.com/) (Fundador)
 - **2025**: [Sírio-Libanês](https://wilbelison.github.io/wilbelison/assets/2025-vitrine-sirio-libanes.jpg) (Design)
 - **2025**: [PUCRS](https://wilbelison.github.io/wilbelison/assets/2025-melhoria-pdp-pucrs.jpg) (Design)
 - **2023**: [Ponto "Frio"](https://wilbelison.github.io/wilbelison/assets/2023-lp-ponto.jpg) (Design)
