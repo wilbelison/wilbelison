@@ -1,12 +1,10 @@
-# Wilbelison Junior | UX Designer Specialist & Front-end Developer
+# Senior Product & UX Designer | E-commerce & Marketplaces | Fundador do AppTiter
 
-Sou o Wil, Full Stack Designer com mais de 20 anos de experiência em transformar desafios de negócios em soluções digitais centradas no usuário. Atuo na interseção entre estratégia, experiência e produto, unindo visão de negócio e design para gerar impacto real.
+Sou o Wil, Product & UX Designer com mais de 20 anos criando produtos digitais centrados no usuário, com foco em resultado de negócio. Atuo na interseção entre estratégia, pesquisa, design e implementação, ajudando times a transformar problemas complexos em experiências claras, fluidas e mensuráveis.
 
-Especializado em UX Design e Design de Produto, conduzo o ciclo completo — da descoberta de oportunidades à prototipação e validação de soluções. Já colaborei com marcas como Walmart, Carrefour, Grupo Casas Bahia, Grupo ZAP e UOL, entregando experiências que aumentaram conversão e satisfação de usuários.
+Tenho experiência em e-commerce, marketplaces, logística e edtech, em empresas como Walmart, Carrefour, Grupo Casas Bahia, Olist e UOL EdTech. Conduzo o ciclo completo de produto: discovery, pesquisa, definição de problema, prototipação, testes, design system e handoff técnico.
 
-Atualmente, curso especialização em Design Thinking e desenvolvo o AppTiter, meu projeto pessoal focado em fotografia gastronômica com IA.
-
-**[Currículo →](https://wilbelison.github.io/wilbelison/assets/2025-cv-figma.pdf)**
+Atualmente curso especialização em Design Thinking e desenvolvo o AppTiter, projeto próprio que explora IA aplicada à fotografia gastronômica para restaurantes.
 
 ## Contato
 
