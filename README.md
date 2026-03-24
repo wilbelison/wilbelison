@@ -1,4 +1,4 @@
-# Product & UX Designer | E-commerce & Marketplaces | Fundador do AppTiter
+# Product & UX Designer | Fundador do AppTiter
 
 Sou o Wil, Product & UX Designer com mais de 20 anos criando produtos digitais centrados no usuário, com foco em resultado de negócio. Atuo na interseção entre estratégia, pesquisa, design e implementação, ajudando times a transformar problemas complexos em experiências claras, fluidas e mensuráveis.
 
