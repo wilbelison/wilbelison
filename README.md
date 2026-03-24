@@ -3,9 +3,11 @@
 
 Transformo desafios de negócio complexos em experiências simples e impactantes. Lidero o ciclo completo de produto: **Discovery → Pesquisa → Design → Validação → Handoff**, conectando estratégia, usuário e viabilidade técnica.
 
-**Experiência:** Walmart, Carrefour, Olist, Grupo Casas Bahia, UOL EdTech, Saraiva  
-**Foco:** E-commerce, Marketplaces, Logística, EdTech
-**Skills:** Product Design, UX Research, Design Systems, Figma, Testes A/B, Testes de Usabilidade
+**Experiência:** Walmart, Carrefour, Olist, Grupo Casas Bahia, UOL EdTech, Saraiva
+
+**Foco:** E-commerce, Marketplaces, Logística, EdTech, Proptechs
+
+**Skills:** Product Design, UX Research, Design Systems, Figma, Testes A/B, Testes de Usabilidade, Front-end
 
 [LinkedIn](https://linkedin.com/in/wilbelison) | [oi@wil.work](mailto:oi@wil.work) | [WhatsApp](https://wa.me/5511986953010)
 
