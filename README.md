@@ -38,7 +38,7 @@ As melhorias resultaram em aumento significativo na satisfação dos vendedores,
 
 # Portfólio
 
-## Landing Pages
+## Vitrines & Landing Pages
 
 - **2025**: [AppTiter](https://apptiter.com/) (Fundador)
 - **2025**: [Sírio-Libanês](https://wilbelison.github.io/wilbelison/assets/2025-vitrine-sirio-libanes.jpg) (Design)
